@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+.gamecell {
+  font-family: "monospaced";
+  width: 25px;
+  height: 25px;
+}
+
+.gamecell.alive {
+  background-color: purple;
+}
+
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
